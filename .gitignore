@@ -28,6 +28,5 @@ Thumbs.db
 
 # Others
 *.class
-*.jar
 *.war
 *.ear
